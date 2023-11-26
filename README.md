@@ -9,3 +9,5 @@ The interface's primary function is to allow voters in the area to view the poll
 Images from the Website
 ![Adsız](https://github.com/tarantuna/ELECTION-MANAGEMENT-WITH-WEB-BASED-GIS/assets/118597175/e0a77254-20c9-4d08-9c2e-23be8f9a6396)
 ![image](https://github.com/tarantuna/ELECTION-MANAGEMENT-WITH-WEB-BASED-GIS/assets/118597175/0ce4065c-a1bf-41c5-b4d0-15b848b002c1)
+
+![Ekran görüntüsü 2023-11-24 205723](https://github.com/serefyigityuksel/ELECTION-MANAGEMENT-WITH-WEB-BASED-GIS/assets/95695695/46698a7d-0a37-403a-990d-713d459800db)
